@@ -8,3 +8,8 @@ This project was made with the use of JavaFX library.
 Ce projet a été réalisé dans le cadre du cours de Développement de Programmes dans un Environnement Graphique au Collège Bois-de-Boulogne, en équipes de deux.
 Vous incarnez Charlotte, qui explore courageusement les profondeurs de l’océan tout en repoussant des hordes de poissons hostiles. Votre objectif est de remonter la rivière le plus loin possible, tant que vous avez suffisamment d’énergie. Si les poissons ennemis vous touchent quatre fois, la partie est terminée.
 Ce projet a été réalisé en utilisant la librairie JavaFX.
+
+
+![image](https://github.com/user-attachments/assets/9307a524-1934-4cd1-8eb0-bf6f14e43ec6)
+![image](https://github.com/user-attachments/assets/d5139894-e5ac-4e72-aa1b-72922a19da76)
+![image](https://github.com/user-attachments/assets/3679c977-a6ae-496c-8060-0ad755bc8fb5)
